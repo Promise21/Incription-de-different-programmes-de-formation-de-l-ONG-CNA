@@ -1,0 +1,31 @@
+body {
+  padding: 0%;
+  margin: 0%;
+  height: 100%;
+  width: 100%;
+  
+  font-family: "Dosis", sans-serif;
+}
+.txt-container{
+  display: inline-flex;
+  width: 50%;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin: 10% 21%;
+  font-size: 17pt;
+}
+
+.head{
+  width: 100%;
+  display: inline-flex;
+}
+.wlcm-msg{
+  padding: 2%;
+}
+
+.logout a{
+  float: right;
+  margin: -6% 2%;
+
+}
